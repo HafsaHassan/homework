@@ -8,5 +8,3 @@
 6. Git fetch
 7. Git push
 8. First, git add is required and then a message to commit with which is done by adding -m "example message"
-
-# Task 3
